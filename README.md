@@ -1,4 +1,4 @@
-ST-Indentags
+Indentags
 ============
 
 Sublime Text plugin for xml indentation
